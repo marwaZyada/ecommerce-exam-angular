@@ -1,0 +1,8 @@
+.related-products-title{
+    margin-bottom: -5px;
+}
+@media screen and (max-width: 767px) { 
+    .related-products-title{
+margin-left: 30px;
+    }
+}

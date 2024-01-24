@@ -1,0 +1,24 @@
+.height{
+    height: 100vh;
+}
+
+.owl-theme .owl-nav [class*=owl-] {
+  
+    background-color: #fa8072 !important;
+    color: #fff;
+    position: absolute !important;
+    top: -16px;
+    right: 0px;
+}
+.owl-carousel .owl-nav.disabled{
+    display: block !important;
+}
+.owl-theme .owl-nav :hover{
+    background-color: #f95f5f;
+   
+}
+
+.owl-nav{
+   
+    
+}

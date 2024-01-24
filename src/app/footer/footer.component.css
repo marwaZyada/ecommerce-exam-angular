@@ -1,0 +1,7 @@
+ul a:hover, .active{
+    color: #17a78b !important;
+    text-decoration: underline;
+}
+.footer-card-icon >i{
+margin-left: 8px;
+}

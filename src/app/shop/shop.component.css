@@ -1,0 +1,21 @@
+
+.product-upper{
+    
+        border: 1px solid #ddd;
+    
+}
+.single-shop-product h2 a:hover{
+    
+       text-decoration: underline ;
+    
+}
+.single-shop-product{
+        /* margin-right: 100px; */
+        
+}
+@media only screen and(max-width:776px){
+    .single-shop-product{
+        /* width: 80% !important;
+        margin-right: 0px !important; */
+    }    
+}

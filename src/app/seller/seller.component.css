@@ -1,0 +1,13 @@
+.single-wid-product h2 >a{
+    color: black !important;
+}
+.single-wid-product h2 >a:hover{
+    color: #5a88ca !important;
+    text-decoration: underline;
+}
+.product-wid-price ins {
+    color: #5a88ca;
+    font-weight: 700;
+    margin-right: 10px;
+    text-decoration: none;
+}
